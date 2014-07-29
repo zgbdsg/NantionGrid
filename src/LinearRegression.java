@@ -1,4 +1,4 @@
 
-public class LinearRegression {
+public class LinearRegression extends BaseAlgorithm{
 
 }

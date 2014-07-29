@@ -1,4 +1,4 @@
 
-public class PearsonCoefficient {
+public class PearsonCoefficient extends BaseAlgorithm{
 
 }

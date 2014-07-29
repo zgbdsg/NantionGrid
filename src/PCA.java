@@ -1,4 +1,4 @@
 
-public class PCA {
+public class PCA extends BaseAlgorithm{
 
 }
